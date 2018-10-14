@@ -9,3 +9,10 @@ In order to call the script you must first make it executable.
 $ chmod +x getScore
 ```
 
+Add your Google API key to the script
+```
+def runPageSpeed(site):
+    url = "https://www.googleapis.com/pagespeedonline/v4/runPagespeed?url="+site+"&strategy=desktop&key=[your-api-key]"
+```
+
+
