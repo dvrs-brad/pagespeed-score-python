@@ -6,6 +6,7 @@ This project is in the early stages of development.  When completed, it will all
 * SSL Expiry
 * SEO
 * Uptime
+* Github Issues
 * Dashboard
 
 ## License
