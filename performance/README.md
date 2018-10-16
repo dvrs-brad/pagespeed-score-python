@@ -17,7 +17,8 @@ Example Company Names,https://example.com
 Example Company Name,https://example.com
 Example Company Name,https://example.com
 ```
-Include the path of this file to the script.
+### Edit sitePerformance.py
+Include the path to your list of websites.
 ```
 # File containing a list of websites to audit
 readPath = "/path/to/your/file/example-list.txt"
