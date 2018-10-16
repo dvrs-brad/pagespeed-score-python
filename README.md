@@ -6,7 +6,7 @@ This project is in the early stages of development.  When completed, it will all
 * SSL Expiry
 * SEO
 * Uptime
-* Github Issues
+* [Github Issues](https://github.com/dvrs-brad/website-maintenance-automation/tree/master/githubapi)
 * Dashboard
 
 ## License
