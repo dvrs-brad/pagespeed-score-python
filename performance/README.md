@@ -26,5 +26,5 @@ readPath = "/path/to/your/file/example-list.txt"
 Enter a path to save the json results
 ```
 # loction to save the Lighthouse json results
-savePath = "/path/to/save/your/files"
+savePath = "/path/to/save/audit/results"
 ```
