@@ -7,9 +7,9 @@ import csv
 # with Google Lighthouse.  Generate a json file with the results.
 
 # File containing a list of websites to audit
-readPath = "/home/brad/Documents/maintenance/maintenance-clients.txt"
+readPath = "/path/to/your/file/example-list.txt"
 # loction to save the Lighthouse json results
-savePath = "/home/brad/Documents/maintenance/lighthouse/"
+savePath = "/path/to/save/audit/results"
 
 # Open a CSV containing a list of websites to audit
 with open(f'{readPath}') as csv_file:
