@@ -1,6 +1,6 @@
 # GithHub Api
 
-Query Github for repo information
+Use Github Rest API to retrieve information about GitHub Repos. 
 
 ## Requirements
 
@@ -8,8 +8,19 @@ Query Github for repo information
 * PIP & PyGithub
 * GitHub Personal Access Token
 
-## Listing Github Repos
+## Install PIP
+from Ubuntu 
+```
+$ sudo apt install python-pip   
 
-## Listing Issues
+```
+
+## Install PyGithub
+```
+$ python3.6 -m pip install PyGithub
+
+```
+
+
 
 
